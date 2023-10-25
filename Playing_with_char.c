@@ -4,7 +4,7 @@ Problem 1
 Author: Karim_Mohamed
 Date: 25 oct 2023
 
-explaination of the code is this code to print char or word or sentance with spaces between the words
+explaination of the code : this code to print char or word or sentance with spaces
 */
 #include <stdio.h>
 #include <string.h>
