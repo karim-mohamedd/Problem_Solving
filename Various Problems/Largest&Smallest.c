@@ -39,4 +39,5 @@ int main() {
     printf("The smallest element is: %d\n", smallest);
 
     return 0;
+    
 }
